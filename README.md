@@ -1,6 +1,6 @@
 # sql_injection_Test
 
-operating sys: Kali linux 2022 
+operating sys: Kali linux 2022 (VMware)
 tools : sqlmap
 
 ![Screenshot (133)](https://user-images.githubusercontent.com/89642249/200897412-1d525550-34b6-4f76-bf2b-69262f409e7e.png)
